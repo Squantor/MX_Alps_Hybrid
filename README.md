@@ -1,3 +1,8 @@
+# Deprecation Warning
+This library has been succeeded by the [MX_V2 Library](https://github.com/ai03-2725/MX_V2).  
+This library will remain available since it is very different structurally from the new one, but will not be updated or maintained.  
+Please migrate to the new one whenever possible.  
+
 # MX_Alps_Hybrid
 KiCad Libraries of keyboard switch footprints
 
